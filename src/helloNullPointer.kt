@@ -55,5 +55,4 @@ fun main(args: Array<String>) {
     val name4: String = name1 ?: name  //use null combine operator - if left of "?:" is null, use right
     println("name1: $name1\nname2: $name2\nname3: $name3\nname4(clone of name1 or name): $name4")
 
-    
 }
