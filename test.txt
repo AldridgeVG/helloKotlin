@@ -1,0 +1,13 @@
+hello Kotlin Learner!
+this is a test file
+1234567
+3.14
+3.14159265358979323846260000000000000000000000000000
+65536*65536*65536
+416/0
+416%0
+'/;:"|\,<*(^&]!@~$'
+gOoDbYe
+GoOdByE
+goodbye
+GOODBYE

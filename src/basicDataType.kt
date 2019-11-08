@@ -1,3 +1,5 @@
+import kotlin.math.roundToInt
+
 const val shopName = "Anthea's Bar"
 var myMoney = 500
 
@@ -13,6 +15,22 @@ fun main(args: Array<String>) {
     println(wordOfBoss)
     println("and the dragon says:")
     println("Wh4t? ${toDragonWords(wordOfBoss)}")
+
+    //covert input string to int/float/double
+//    println("input dragon breath price")
+//    val priceOfDragonBreath = readLine()?.toIntOrNull() ?: 0
+    //input 5 / 5.9 / null
+//    println("drgon breath takes you $priceOfDragonBreath")
+
+    val wtf = 5.1 - 4.91
+    println("float: 5.1 - 4.91 = $wtf")
+    println("float(2bit): 5.1 - 4.91 = ${"%.2f".format(wtf)}")
+    //format double
+    println("float(2bit): 5.1 - 4.91 = ${"%.2f".format(wtf)}")
+    //double to int: discard
+    println("floatToInt: 5.1 - 4.91 = ${wtf.toInt()}")
+    //round to Int: 4d5g to closest int
+    println("float(2bit) separate Int: 5.1 - 4.91 = ${wtf.toInt()} + 0. ${(wtf%1*100).roundToInt()}")
 
 
 }
