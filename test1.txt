@@ -1,0 +1,7 @@
+hello
+this is 2nd line
+what do you feel about kotlin?
+is it great?
+Of course not!
+too simple
+many option were changed

@@ -53,10 +53,6 @@ fun main(args: Array<String>) {
     val callingFunction1 = generateCallingFun()
     println(callingFunction(born, all))
     println(callingFunction1(born))
-
-
-
-
 }
 
 private fun commuteWay(distanceHome: Int): String {
@@ -89,9 +85,9 @@ private fun routeIn(vertex1: String, vertex2: String, vertex3: String) =
     println("your route is $vertex1 to $vertex2 to$vertex3")
 
 //return type as fun type
-fun generateCallingFun():(String)->String{
+fun generateCallingFun(): (String) -> String {
     val type = "generated anonymous"
-    return {s1:String->
+    return { s1: String ->
         "$s1, you called a fun! fun type: $type"
     }
 }

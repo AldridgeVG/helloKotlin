@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f13e810-29da-47f4-95f7-ab2ec904ae6f" name="Default Changelist" comment="string op">
-      <change afterPath="$PROJECT_DIR$/src/basicListAndSet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stdLabFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicDataTypeKt$toDragonWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicDataTypeKt$toDragonWords$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicDataTypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicDataTypeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicDataType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/HelloKotlinKt$generateCallingFun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/HelloKotlinKt$generateCallingFun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/HelloKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/HelloKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicListAndSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicListAndSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloKotlin.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
