@@ -136,13 +136,21 @@ fun main(args: Array<String>) {
     val threeLoopList = mutableListOf(1,1,1,3,3,3,5,5,5,7,7,7,9,9,9)
     var count =0
     while(count<15){
-        if (threeLoopList[count] == 5)
-            break
-        else {
             print(threeLoopList[count])
             print("\t")
             count += 3
-        }
     }
     println()
+
+    //Java Arrays
+    var arrA:IntArray = intArrayOf(1,2,3,4,5)
+    //swap
+    var tmp = arrA[0]
+    arrA[0] = arrA[1]
+    arrA[1] = tmp
+    for(a in arrA) {
+        println(a)
+    }
+
+
 }
