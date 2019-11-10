@@ -34,7 +34,4 @@ fun main(args: Array<String>) {
     operatorMap.getOrPut("Demon"){"Caveira"}
     println(operatorMap)
 
-    
-
-
 }

@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f13e810-29da-47f4-95f7-ab2ec904ae6f" name="Default Changelist" comment="string op">
-      <change afterPath="$PROJECT_DIR$/src/basicMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spartanFight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spartanSoldier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spartanSquad.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicListAndSetKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/BasicMapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/BasicMapKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicListAndSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicListAndSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicMap.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -48,20 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.BasicMapKt">
-    <configuration name="BasicDataTypeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="helloKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BasicDataTypeKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.SpartanFightKt">
     <configuration name="BasicListAndSetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="helloKotlin" />
       <option name="VM_PARAMETERS" />
@@ -88,14 +78,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloNullPointerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="helloKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="HelloNullPointerKt" />
+      <option name="MAIN_CLASS_NAME" value="HelloKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanFightKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="helloKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SpartanFightKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SpartanFightKt" />
+        <item itemvalue="Kotlin.HelloKotlinKt" />
         <item itemvalue="Kotlin.BasicMapKt" />
         <item itemvalue="Kotlin.BasicListAndSetKt" />
         <item itemvalue="Kotlin.StdLabFunctionKt" />
-        <item itemvalue="Kotlin.BasicDataTypeKt" />
-        <item itemvalue="Kotlin.HelloNullPointerKt" />
       </list>
     </recent_temporary>
   </component>
