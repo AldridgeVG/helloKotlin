@@ -1,3 +1,0 @@
-class unscSpartan:unscSoldier("Spartan") {
-
-}
