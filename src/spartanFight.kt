@@ -26,12 +26,20 @@ fun main(args: Array<String>) {
     sq1.calcAttk()
     sq1.clacDefs()
     sq1.clacHP()
+
     var sq2 = spartanSquad(name2)
     sq2.calcAttk()
     sq2.clacDefs()
     sq2.clacHP()
+
     sq1.showStatus()
+    sq1.showSoldierStatus()
+    println()
+
     sq2.showStatus()
+    sq2.showSoldierStatus()
+    println()
+
     while (Fight(sq1, sq2) == 0) {
         sq1.showStatus()
         sq2.showStatus()

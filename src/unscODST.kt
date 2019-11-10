@@ -1,0 +1,4 @@
+class unscODST: unscSoldier("ODST") {
+
+
+}

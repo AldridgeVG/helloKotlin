@@ -33,9 +33,12 @@ class spartanSquad(
             else -> "?"
         }
         println("$name squad:")
-        /*sp1.showStatus()
+        println("squadHP: $squadHP, status: $squadStatus, attk: $squadAttk")
+    }
+
+    fun showSoldierStatus(){
+        sp1.showStatus()
         sp2.showStatus()
-        sp3.showStatus()*/
-        println("squadHP: $squadHP, status: $squadStatus")
+        sp3.showStatus()
     }
 }
