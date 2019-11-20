@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f13e810-29da-47f4-95f7-ab2ec904ae6f" name="Default Changelist" comment="string op">
-      <change afterPath="$PROJECT_DIR$/src/UNSC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helloInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helloInterfaceTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/spartanSoldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/spartanSoldier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/UNSCKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/UNSCKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/spartanSquad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/spartanSquad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/unscODST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/unscODST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/unscSoldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/unscSoldier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UNSC.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/UNSC.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spartanSquad.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/spartanSquad.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/unscODST.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/unscODST.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/unscSoldier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/unscSoldier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unscSpartan.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

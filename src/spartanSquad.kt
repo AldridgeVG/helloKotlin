@@ -12,7 +12,7 @@ class spartanSquad(
     var squadDefs = 0
     var squadHP = 0
 
-    fun calcAttk() {
+    fun calcAttk() {6
         squadAttk = sp1.attk + sp2.attk + sp3.attk
     }
 
